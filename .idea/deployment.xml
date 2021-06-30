@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="sdxx@10.60.116.251:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="sdxx@10.60.116.251:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/sdxx/hgf/deep-learning-for-image-processing/pytorch_object_detection/faster_rcnn" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/sdxx/hgf/deep-learning-for-image-processing/pytorch_object_detection/faster_rcnn/save_weights" />
+            <excludedPath path="/home/sdxx/hgf/deep-learning-for-image-processing/pytorch_object_detection/faster_rcnn/VOCdevkit" />
+            <excludedPath local="true" path="$PROJECT_DIR$/save_weights" />
+            <excludedPath local="true" path="$PROJECT_DIR$/VOCdevkit" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
